@@ -15,7 +15,7 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
     * re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
 ## Preview 
 
-![EatDaBurger](/eatdaburger1.PNG)
+![EatDaBurger](.public/eatdaburger1.PNG)
 ![EatDaBurger](eat-da-burger1.PNG)
 
 ### Credits
